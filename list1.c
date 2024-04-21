@@ -1,3 +1,7 @@
+/*Alterar a implementação disponibilizada e criar uma função para remover em uma
+posição específica da lista, conforme cabeçalho abaixo:
+No * remove_elemento (No * lista, int posicao)*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
